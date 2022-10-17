@@ -21,3 +21,79 @@ then iam degree passed out in 2020
 my hobbies is play cricket and read history book and army book read allso 
 my faily details is my mother is house wifi and my father is a auto driver 
 my brother is youtuber and sister is studying in intermidate 
+
+How can a Python program be executed?
+The different ways in which a python program can be executed successfully are:
+
+By the Python Terminal. Interactive mode for programming is used to develop new solutions from scratch and execute them in state-of-the-art ways.
+By implementing Scripting.
+Need for scripting 
+The development of complicated programs using the python terminal is very difficult, complex, and time-consuming. Scripting is used for the development of such complex and large programs. 
+
+Windows Users:
+The steps for the methods are first, writing the python program in notepad second, saving the program saved using a .py extension, and finally, executing the respective program by typing the name of the program in the command prompt “python filename.py”.
+
+Note: Set the path variable correctly before executing the script.
+
+Mac Users:
+Double-click the script in the Finder, to run a script application. The events and results can’t be viewed if running a script app outside of Script Editor.
+
+Advantages of Scripting
+Scripting, developing a set of commands designed to work together, to execute a needed task or set of tasks.
+
+The demand for scripting languages increases as there is a need for easy solutions for developing complex programs in the market. As the popularity and the traction for these scripting languages increase, developers try to push the limits to get faster and better results. They are easy to develop and can be executed in a short time. 
+
+Note: Python is still considered to have the upper hand, and scripts can mostly be used for integrations-related tasks. Developers should know the boundaries and should respect them.
+
+Python and Java
+Python Scripts are nothing but the codes that are written in the python programs.  
+
+Like Java, Python has its PVM (Python Virtual Machine). The PVM can convert the script into byte code. The .pyc files in python, also known as compiled python files, use a similar architecture for execution. In python, the process is done to modules for better performance during the execution. 
+
+Python states:
+Python language is interpreted in nature. Due to the presence of the bytecode compiler, the distinction between interpreted or compiled are almost blurry. There is no need to create an executable file to run, as the source files can be run directly.
+
+The architecture of the program is different from a solid script. It is complex and diverse.
+
+How to write Python Scripts?
+The script in python and the shell script are almost the same things. They both are lines of python code written in a plain text file; these python codes are designed as solutions that are executed systematically. 
+
+A text editor with syntax highlighting is essential. Developers can easily create and edit a Python script using a good text editor.
+
+The most versatile text editor currently available in the market is VSCode, provided by Microsoft. 
+
+Windows Users:
+Can install and run it directly or through Anaconda
+
+Mac Users:
+Can install and run it through Anaconda.
+
+Need for Documenting the Code
+Documenting the written python code is very important. It helps in easy usage of the code for others and also for yourself. With proper documentation, the structuring and usage of the respective code can be easily remembered for future purposes. For documenting a source code, we make use of comments. Comments are denoted by #. Python ignores the text written as comments.
+
+Note:
+
+Plain text files can be used to create and store Python commands 
+Use python <scriptname> to run the respective file
+Extension .py is generally used for python scripts.
+Always opt for a syntax-highlighting text editor to edit your Python scripts.
+Make use of comments, as the comments improve the readability of your code and can be used to understand the structuring and usage of the script for future purposes.
+How to reload modules
+A Python module is a set of parameters and functions together in a single .py file. They are files implemented in need of pre-defined functions.
+
+While importing a module, Python secures the commands for importing the respective module. If another statement makes the command for importing the same module, Python automatically neglects the command. The folder sys. modules contain the list of modules already loaded. Loading the same module can be time-consuming. 
+
+For force reloading of a module, while debugging a script using a .exe file or running the program from an IPython shell, we have to use the reload command. Otherwise, the changes that were made in the script will not be refreshed after re-executing the script.
+
+Converting the Python Script into .exe file
+With the help of the .exe file, the program developed can be run on a system without the need for an IDE shell. 
+
+Step 1: Use the command: pip install pyinstaller, type it in the command prompt 
+
+Step 2: Open the directory where the respective .py file is located. 
+
+Step 3: Open the Power shell window by clicking the Right button and simultaneously pressing the shift button.
+
+Step 4: Use the command: pyinstaller –onefile -w ‘filename.py’, type it in the command prompt 
+
+Step 5: After executing the command, go to the new-made directory, open the dist folder for the exe.file:
