@@ -1,4 +1,19 @@
- hello this vijay i want job it learn new subject off in python and
+ The historical blur between scripting languages and general-purpose programming languages has caused Python to be considered a scripting language by a large audience. The python script is a file containing the commands that are structured to be executed like a program. But how do you run it? What do we exactly mean by running a Python Script? Let us find out the answers of all of these questions with the help of this blog about Python Script.
+
+What is Python Script
+How can a Python program be executed?
+Need for scripting 
+Advantages of Scripting
+Python and Java
+How to write Python Scripts?
+Need for Documenting the Code
+How to reload modules
+Converting the Python Script into .exe file
+What is the difference between Code, Script and Modules?
+What is Python Script?
+A Python script, the file containing the commands, is structured to be executed like a program. These files are designed to contain various functions and import various modules. Python interactive shell or the respective command line is used to execute the script, to perform a specific task. A script is structured by defining the set of function definitions and then stating the main program used to call the functions.
+
+A program consists of numerous tasks; these tasks can be executed with the help of scripts. Unlike libraries, scripts can be used without importing and are less code-intensive. hello this vijay i want job it learn new subject off in python and
 hello sir 
 my name is arava vijay 
 iam from nellore 
@@ -6,4 +21,3 @@ then iam degree passed out in 2020
 my hobbies is play cricket and read history book and army book read allso 
 my faily details is my mother is house wifi and my father is a auto driver 
 my brother is youtuber and sister is studying in intermidate 
- 
